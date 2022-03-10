@@ -68,11 +68,13 @@ const Header = () => {
               </div>
               <div class="modal-body">
                 <strong>
-                Nome: Jezimiel Marcondes
+                Nome: Jezimiel Marcondes de Lima Cavalcanti
                 <br />
                 Idade: 54 anos
                 <br />
                 Estado Civil: Casado
+                <br />
+                e-mail: jpamarcondes.edu@gmail.com
                 <br />
                 Cidade/Estado: Petrolina/PE
                 <br />
